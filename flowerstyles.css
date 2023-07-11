@@ -152,17 +152,18 @@ background: rgba(229, 84, 115, 0.05);
 }
 .section-hotdeal{
     max-width: 500px;
+    text-align: center;
 }
 .hotdael-tittle{
     color: #272727;
-    text-align: center;
+    /* text-align: center; */
     font-size: 33px;
     font-weight: 800;
     margin-bottom: 10px;
 }
 .hotdeal-description{
     color: rgba(39, 39, 39, 0.60);
-    text-align: center;
+    /* text-align: center; */
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 9px;
@@ -180,3 +181,5 @@ background: rgba(229, 84, 115, 0.05);
     width: 300px;
     padding: 10px 100px 10px 0px ;
 }
+
+/* instagram section style */

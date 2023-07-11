@@ -236,6 +236,7 @@ input {
     border-radius: 8px;
     background: #FFF;
 }
+
 .btn-subscribe {
     text-align: center;
     background: #E55473;
@@ -246,6 +247,7 @@ input {
     font-size: 20px;
     font-weight: 700;
 }
+
 .deals-tittle {
     color: #272727;
     text-align: center;
@@ -253,6 +255,7 @@ input {
     font-weight: 800;
 
 }
+
 .deals-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;

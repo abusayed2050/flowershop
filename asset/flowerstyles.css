@@ -1,4 +1,49 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
+}
+
+/*common shared style*/
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*header style section*/
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+}
+
+/*banner style section*/
+.banner {
+    display: flex;
+    padding: 30px 30px 0px 147px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-contain {
+    max-width: 500px;
+}
+
+.banner-image {
+    max-width: 500px;
+}
+
+.banner-tittle {
+    color: #272727;
+    font-family: Lato;
+    font-size: 62px;
+    font-weight: 900;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

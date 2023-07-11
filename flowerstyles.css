@@ -24,12 +24,14 @@ body {
 text-align: center;
 font-size: 30px;
 font-weight: 800;
+margin-bottom: 10px;
 }
 .section-description{
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-size: 18px;
 font-weight: 400;
+margin-bottom: 90px;
 }
 
 /*header style section*/
@@ -69,3 +71,47 @@ font-weight: 400;
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*main style*/
+main{
+    max-width: 1250px;
+    margin: auto;
+}
+main section{
+    margin-top: 120px;
+}
+/*feature  section style*/
+.feature{
+    padding: 110px;
+    margin: auto;
+}
+.feature-image-container{
+    display: flex;
+    justify-content: space-around;
+}
+.image-one{
+    width: 280px;
+   height: 380px;
+   padding: 25px;
+border-radius: 300px 300px 0px 0px; 
+background: rgba(167, 33, 98, 0.15);
+}
+
+.f-image-one{
+    
+}
+
+.feature-imagename{
+    display: flex;
+    justify-content: space-around;
+}
+.image-name{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+text-decoration-line: underline;
+}
+
+

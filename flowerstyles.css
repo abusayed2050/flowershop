@@ -35,6 +35,9 @@ body {
     font-weight: 400;
     margin-bottom: 90px;
 }
+.text-primary{
+    color: #E55473;
+}
 
 /*header style section*/
 .header {
@@ -135,4 +138,30 @@ main section {
     font-size: 24px;
     font-weight: 700;
     text-decoration-line: underline;
+}
+
+/* hot deal section style */
+.hotdeal-feature{
+    display:flex;
+    padding: 30px 30px 0px 147px;
+    align-items: center;
+    justify-content: space-between;
+}
+.hotdeal{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.section-hotdeal{
+    /* max-width: 500px; */
+}
+#hotdael-tittle{
+    /* font-weight: 900px;
+    align-items: center; */
+}
+#btn-signup{
+    text-align: center;
+}
+.image-hotdeal{
+    /* width: 300px;
+    padding: 10px 100px 10px 0px ; */
 }

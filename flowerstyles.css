@@ -91,13 +91,15 @@ main section{
 }
 .image-one{
     width: 280px;
-   height: 380px;
-   padding: 25px;
+height: 420px;
+   padding: 30px 10px ;
 border-radius: 300px 300px 0px 0px; 
 background: rgba(167, 33, 98, 0.15);
 }
 
 .f-image-one{
+    width: 270px;
+    
     
 }
 

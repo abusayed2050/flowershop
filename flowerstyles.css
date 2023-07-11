@@ -200,3 +200,41 @@ background: rgba(229, 84, 115, 0.05);
     width: 220px;
     height: 286px;
 }
+
+/* deals section styles */
+.deals{
+    padding: 110px;
+    margin: auto;
+    
+}
+.deals-feature{
+    height: 500px;
+    margin: 0px;
+    background-image: url('./asset/image/Rectangle\ 9.png');
+    background-repeat:initial;
+    background-position: center;
+    background-size: cover;
+}
+.deals-feature-details{
+    align-items: center;
+}
+input{
+    width: 700px;
+    height: 64px;
+    align-items: center;
+}
+.btn-subscribe{
+    background: #E55473;
+    border-radius: 8px;
+    border: 0px;
+    padding: 10px 25px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* footer section style */
+ .footer{
+    
+    background-color:  rgba(229, 84, 115, 0.10);
+ }

@@ -15,7 +15,6 @@ body {
     border: 0px;
     padding: 10px 25px;
     color: #FFF;
-    font-family: Lato;
     font-size: 20px;
     font-weight: 700;
 }
@@ -152,16 +151,32 @@ main section {
 background: rgba(229, 84, 115, 0.05);
 }
 .section-hotdeal{
-    /* max-width: 500px; */
+    max-width: 500px;
 }
-#hotdael-tittle{
-    /* font-weight: 900px;
-    align-items: center; */
-}
-#btn-signup{
+.hotdael-tittle{
+    color: #272727;
     text-align: center;
+    font-size: 33px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.hotdeal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+.btn-signup{
+    background: #E55473;
+    border-radius: 8px;
+    border: 0px;
+    padding: 10px 25px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
 }
 .image-hotdeal{
-    /* width: 300px;
-    padding: 10px 100px 10px 0px ; */
+    width: 300px;
+    padding: 10px 100px 10px 0px ;
 }
